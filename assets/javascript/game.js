@@ -1,4 +1,4 @@
-var words = ["syntax", "object", "jquery", "string", "random","method", "switch"];
+kvar words = ["syntax", "object", "jquery", "string", "random","method", "switch"];
 var comGuess = words[Math.floor(Math.random() * 7)];
 var guessedLetters = [];
 var numberOfTrysLeft = 8;
